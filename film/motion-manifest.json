@@ -1,0 +1,26 @@
+{
+  "title": "Downtempo",
+  "study": "dw01",
+  "bpm": 92,
+  "source_audio": "preview/downtempo-studies-simple-synth-preview.mp3",
+  "source_audio_sha256": "fe804cb68cadd6b84a848e877d476e6d634bf449d835561bfb48b811b4111a78",
+  "source_midi": "midi/dw01-resting-place/dw01-resting-place-combined.mid",
+  "source_midi_sha256": "cfd55268f17144057ad8a3dc516ba2658aa6444da0b7ceda9e71657477ac7aa0",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "2104afb604152106a1c38b2ca2655059989457d986c25b1d61800a599680467e",
+  "art_source_file": "film/motion-artwork.jpg",
+  "art_source_sha256": "d21074b3bd871ef8ad0909e82bdf7b6302accdd6b85af77e2e686d937298a1b9",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/motion-preview.mp4",
+  "video_sha256": "dfc2077cc83e79a34ea522a42fc15ce087c0531c78a77dd31c261f985b08a3c6",
+  "caption": "film/motion-preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
