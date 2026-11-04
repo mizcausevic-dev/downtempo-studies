@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+dw01,Resting Place,pack-local equal-tempered pitch collection,C,92,4/4,480,32,61440,midi/dw01-resting-place/dw01-resting-place-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+dw02,Wide Table,pack-local equal-tempered pitch collection,D#,92,4/4,480,32,61440,midi/dw02-wide-table/dw02-wide-table-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+dw03,Night Paper,pack-local equal-tempered pitch collection,F#,92,4/4,480,32,61440,midi/dw03-night-paper/dw03-night-paper-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+dw04,Soft Arrival,pack-local equal-tempered pitch collection,C#,92,4/4,480,32,61440,midi/dw04-soft-arrival/dw04-soft-arrival-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums

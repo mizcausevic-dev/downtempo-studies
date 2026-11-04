@@ -1,0 +1,15 @@
+{
+  "source_audio": "preview/downtempo-studies-simple-synth-preview.mp3",
+  "source_audio_sha256": "fe804cb68cadd6b84a848e877d476e6d634bf449d835561bfb48b811b4111a78",
+  "excerpt_start_seconds": 0,
+  "excerpt_duration_seconds": 18,
+  "video": "film/preview.mp4",
+  "video_sha256": "ec602ff755f11856565808c603b214d4a4dad080beb6c30347c814eefd451162",
+  "duration_seconds": 18.0,
+  "video_codec": "H.264",
+  "audio_codec": "AAC",
+  "caption": "film/preview.vtt",
+  "poster": "film/poster.jpg",
+  "disclosure": "preview, not master",
+  "note": "A static illustrated poster and audio excerpt; no recording-session claim."
+}
