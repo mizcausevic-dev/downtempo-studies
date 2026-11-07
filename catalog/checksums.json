@@ -7,21 +7,6 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
-      "path": "MOTION-PREVIEW.md",
-      "bytes": 778,
-      "sha256": "96f2169b248b87b6e372aad04c7589359169dcb7e2474b6f8fb572d2a32556d4"
-    },
-    {
-      "path": "README.md",
-      "bytes": 3667,
-      "sha256": "3b1ebeeaf08adf49d082eee6bd89d2d6462842078fecd431d5c12ece42837e9c"
-    },
-    {
-      "path": "RENDERER-METADATA-CORRECTION.md",
-      "bytes": 753,
-      "sha256": "40d1f0e5ef2fade78e474c6ca40fc3237eacdb668fce03a58b8b4d3508063101"
-    },
-    {
       "path": "art/cover-provenance.json",
       "bytes": 266,
       "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
@@ -118,8 +103,8 @@
     },
     {
       "path": "downloads/downtempo-studies-midi.zip",
-      "bytes": 22899,
-      "sha256": "122f0b9c6c360123567a271c816189674ca74cfe2a33620674a38a36c1472d15"
+      "bytes": 23886,
+      "sha256": "fc528ba7dd4461b2ffaa90a55c4ff018cf38b90be6e7a2828710d5d88c375625"
     },
     {
       "path": "film/motion-artwork.jpg",
@@ -140,11 +125,6 @@
       "path": "film/motion-overlay.png",
       "bytes": 31075,
       "sha256": "be205c41c0254c64291b9ef7e041ff1340cc308dd09af2a028259581e9c9e470"
-    },
-    {
-      "path": "film/motion-preview.mp4",
-      "bytes": 826731,
-      "sha256": "dfc2077cc83e79a34ea522a42fc15ce087c0531c78a77dd31c261f985b08a3c6"
     },
     {
       "path": "film/motion-preview.vtt",
@@ -173,8 +153,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9294,
-      "sha256": "c590caa190c833f72d0461106ee7223f14fb472b47adc8cf07b2209fdca139c2"
+      "bytes": 9484,
+      "sha256": "3b0ca0dbba538d7ea94667cffa9420c1627ee96935fae8866079f23c16e45c29"
     },
     {
       "path": "midi/dw01-resting-place/chord_pulse.mid",
@@ -317,6 +297,16 @@
       "sha256": "8e0c2d481c2ed089b869439a50494e7cf78fde46aa3ef8629f27ff4503ec04e1"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
+      "path": "MOTION-PREVIEW.md",
+      "bytes": 778,
+      "sha256": "96f2169b248b87b6e372aad04c7589359169dcb7e2474b6f8fb572d2a32556d4"
+    },
+    {
       "path": "preview/downtempo-studies-simple-synth-preview.mp3",
       "bytes": 2016906,
       "sha256": "fe804cb68cadd6b84a848e877d476e6d634bf449d835561bfb48b811b4111a78"
@@ -325,6 +315,16 @@
       "path": "preview/preview-manifest.json",
       "bytes": 1134,
       "sha256": "dfb2bf9638d17fb03074d9e345f707bbe51b705f19c0a64e338de2ab09d2f85d"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3782,
+      "sha256": "8ac3cd518b2c7c28baf3b5307e62a6f7f2c4229f1e304a95d3cf4888f8ca149b"
+    },
+    {
+      "path": "RENDERER-METADATA-CORRECTION.md",
+      "bytes": 753,
+      "sha256": "40d1f0e5ef2fade78e474c6ca40fc3237eacdb668fce03a58b8b4d3508063101"
     },
     {
       "path": "social/instagram/caption.txt",
